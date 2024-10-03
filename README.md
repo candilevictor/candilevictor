@@ -3,6 +3,8 @@ Eu sou o Victor Candile, Atualmente, estou cursando Inteligência Artificial na 
 - 🔭 Atualmente estou trabalhando com Back End<br>
 - 🌱 Atualmente estou aprendendo Front End
 
+##
+
 <h3 align="center">🔥   Minhas estatísticas :</h3>
 
 <div align="center">
