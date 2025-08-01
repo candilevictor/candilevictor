@@ -50,7 +50,7 @@ Eu sou o Victor Candile, Victor Candile, e atualmente trabalho como Desenvolvedo
 
 <h3 align="center">😀 Minhas Redes Sociais:</h3>
 <div align="center">
-  <a href="https://youtube.com/@candilevctrr_?si=2_2jWw2Lk7p1AA_S" target="_blank">
+  <a href="[https://youtube.com/@candilevctrr_?si=2_2jWw2Lk7p1AA_S](https://www.youtube.com/@VictorCandile/videos)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/candilevctrr_?igsh=a3R0OGtnZWtybDJ6&utm_source=qr" target="_blank">
