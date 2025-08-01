@@ -8,9 +8,10 @@ Eu sou o Victor Candile, Victor Candile, e atualmente trabalho como Desenvolvedo
 <h3 align="center">🔥   Minhas estatísticas :</h3>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candilevictor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=candilevictor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="180" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=candilevictor&locale=pt-br&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candilevictor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 ##
