@@ -1,7 +1,6 @@
 ## Opaa, Tudo bem? 👋
 Eu sou o Victor Candile, Victor Candile, e atualmente trabalho como Desenvolvedor na PROA.AI. Sou formado em Inteligência Artificial pela FIAP e estou cursando Ciência da Computação na Universidade Braz Cubas (UBC). Sou apaixonado por tecnologia e por desenvolver soluções inovadoras que contribuem para a transformação digital.
-- 🔭 Atualmente estou trabalhando com Back End<br>
-- 🌱 Atualmente estou aprendendo Front End
+- 🔭 Atualmente estou trabalhando com Back End e Front End<br>
 
 ##
 
